@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "entries": [
+    {
+      "id": "chamara.intro.daruwa",
+      "fighter_id": "chamara",
+      "event": "intro",
+      "source_status": "user_supplied_recording_unverified_transcript",
+      "rights_status": "permission_reported",
+      "text_si": "දරුවා!",
+      "text_en": "Dear one!",
+      "variants": {
+        "full": null,
+        "beep": null,
+        "clean": null
+      },
+      "audio_fallback": "voice_blip",
+      "source_recording_id": null,
+      "notes": "User reports original recording exists; map after import. No sample file is included."
+    },
+    {
+      "id": "rajangane.hit.explicit_01",
+      "fighter_id": "rajangane",
+      "event": "hit_heavy",
+      "source_status": "user_supplied_recording_unverified_transcript",
+      "rights_status": "permission_reported",
+      "text_si": null,
+      "text_en": null,
+      "variants": {"full": null, "beep": null, "clean": null},
+      "audio_fallback": "voice_blip",
+      "source_recording_id": null,
+      "notes": "Transcribe the actual user-provided session recording later; do not fabricate an authentic quote."
+    }
+  ]
+}

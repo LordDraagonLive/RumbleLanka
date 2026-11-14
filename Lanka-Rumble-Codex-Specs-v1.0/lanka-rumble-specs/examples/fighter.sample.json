@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "fighter_id": "malinga",
+  "display_name_key": "fighter.malinga.name",
+  "max_health": 900,
+  "walk_speed_px_s": 165,
+  "speed_rating": 4,
+  "power_rating": 3,
+  "range_rating": 5,
+  "defense_rating": 2,
+  "attacks": {
+    "light": "res://resources/attacks/common_light.tres",
+    "heavy": "res://resources/attacks/common_heavy.tres",
+    "special_neutral": "res://resources/attacks/malinga_yorker.tres",
+    "special_forward": "res://resources/attacks/malinga_sling_ball.tres",
+    "super": "res://resources/attacks/malinga_four_in_four.tres"
+  },
+  "dialogue_profile_id": "malinga"
+}

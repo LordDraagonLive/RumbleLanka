@@ -1,0 +1,19 @@
+# Godot cache
+.godot/
+# Export output and sensitive credentials
+build/
+dist/
+exports/*.exe
+exports/*.apk
+exports/*.aab
+*.keystore
+*.jks
+.env
+.env.*
+# Local original recordings / unreleased raw masters
+private/
+assets/audio/voice_raw/
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
