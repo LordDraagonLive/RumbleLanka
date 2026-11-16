@@ -1,0 +1,16 @@
+# Generated Godot/editor data and workspace-local tooling.
+.godot/
+/.tools/
+/builds/
+
+# Exported packages, temporary files and credentials.
+*.exe
+*.pck
+*.zip
+*.tpz
+*.tmp
+*.log
+*.keystore
+*.jks
+export_credentials.cfg
+.DS_Store

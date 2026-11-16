@@ -1,0 +1,20 @@
+[gd_resource type="Resource" script_class="AttackDefinition" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/data/attack_definition.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+id = &"heavy"
+allow_throw_chord_upgrade = true
+startup_ticks = 12
+active_ticks = 4
+recovery_ticks = 18
+damage = 100
+hit_level = "mid"
+hitstun_ticks = 17
+blockstun_ticks = 13
+hitstop_ticks = 6
+knockback = 20.0
+knockdown = false
+hitbox = Rect2(12, -65, 62, 30)
+sound_event = &"heavy"

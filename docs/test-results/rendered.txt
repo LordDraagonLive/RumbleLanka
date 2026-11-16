@@ -1,0 +1,21 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 NVIDIA 596.52 - Compatibility - Using Device: NVIDIA - NVIDIA T600 Laptop GPU
+
+PASS: Main scene exposes Start Fight and Quit
+PASS: Screenshot saved: menu
+PASS: Menu creates two correctly facing fighters
+PASS: HP text stays below engine-sized health bar
+PASS: Countdown enters active fight in scene
+PASS: Independent P1 and P2 input moves both actors
+PASS: In-scene keyboard block prevents normal damage
+PASS: Heavy damages once and HUD tracks HP
+PASS: Screenshot saved: arena
+PASS: Focus loss opens pause and freezes timer
+PASS: Screenshot saved: pause
+PASS: Resume clears held and buffered attacks
+PASS: Full scene plays two KO rounds to match result without HP overrides
+PASS: Match result remains rematchable after focus loss
+PASS: Screenshot saved: result
+PASS: Rematch restores new match
+PASS: Pause Main Menu returns to startup screen
+SCENE RESULT: 17 passed, 0 failed

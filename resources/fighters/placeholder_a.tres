@@ -1,0 +1,28 @@
+[gd_resource type="Resource" script_class="FighterDefinition" load_steps=9 format=3]
+
+[ext_resource type="Script" path="res://scripts/data/fighter_definition.gd" id="1"]
+[ext_resource type="Resource" path="res://resources/attacks/light.tres" id="2"]
+[ext_resource type="Resource" path="res://resources/attacks/heavy.tres" id="3"]
+[ext_resource type="Resource" path="res://resources/attacks/crouch_light.tres" id="4"]
+[ext_resource type="Resource" path="res://resources/attacks/crouch_heavy.tres" id="5"]
+[ext_resource type="Resource" path="res://resources/attacks/air_light.tres" id="6"]
+[ext_resource type="Resource" path="res://resources/attacks/air_heavy.tres" id="7"]
+[ext_resource type="Resource" path="res://resources/attacks/throw.tres" id="8"]
+
+[resource]
+script = ExtResource("1")
+id = &"placeholder_a"
+display_name = "Placeholder A"
+health = 1000
+walk_speed = 175.0
+jump_velocity = 340.0
+ui_color = Color(0.278, 0.867, 0.855, 1)
+attacks = {
+&"light": ExtResource("2"),
+&"heavy": ExtResource("3"),
+&"crouch_light": ExtResource("4"),
+&"crouch_heavy": ExtResource("5"),
+&"air_light": ExtResource("6"),
+&"air_heavy": ExtResource("7"),
+&"throw": ExtResource("8")
+}

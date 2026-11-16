@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="AttackDefinition" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/data/attack_definition.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+id = &"air_heavy"
+startup_ticks = 10
+active_ticks = 5
+recovery_ticks = 9
+damage = 80
+hit_level = "overhead"
+hitstun_ticks = 16
+blockstun_ticks = 13
+hitstop_ticks = 6
+knockback = 20.0
+knockdown = false
+hitbox = Rect2(10, -45, 56, 48)
+sound_event = &"air_heavy"

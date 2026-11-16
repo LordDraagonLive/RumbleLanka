@@ -1,0 +1,79 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+PASS: P1 J+K, 0-tick separation: one 110-damage throw and knockdown
+PASS: P1 J+K, 1-tick separation: one 110-damage throw and knockdown
+PASS: P1 J+K, 2-tick separation: one 110-damage throw and knockdown
+ERROR: FAIL: P1 J+K, 3-tick separation: one 110-damage throw and knockdown
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (res://tests/run_throw_tests.gd:28)
+       [1] run (res://tests/run_throw_tests.gd:80)
+ERROR: FAIL: P1 J+K, 4-tick separation: one 110-damage throw and knockdown
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (res://tests/run_throw_tests.gd:28)
+       [1] run (res://tests/run_throw_tests.gd:80)
+ERROR: FAIL: P1 J+K, 5-tick separation: one 110-damage throw and knockdown
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (res://tests/run_throw_tests.gd:28)
+       [1] run (res://tests/run_throw_tests.gd:80)
+PASS: P2 Num1+Num2, 0-tick separation: one 110-damage throw and knockdown
+PASS: P2 Num1+Num2, 1-tick separation: one 110-damage throw and knockdown
+PASS: P2 Num1+Num2, 2-tick separation: one 110-damage throw and knockdown
+ERROR: FAIL: P2 Num1+Num2, 3-tick separation: one 110-damage throw and knockdown
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (res://tests/run_throw_tests.gd:28)
+       [1] run (res://tests/run_throw_tests.gd:80)
+ERROR: FAIL: P2 Num1+Num2, 4-tick separation: one 110-damage throw and knockdown
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (res://tests/run_throw_tests.gd:28)
+       [1] run (res://tests/run_throw_tests.gd:80)
+ERROR: FAIL: P2 Num1+Num2, 5-tick separation: one 110-damage throw and knockdown
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (res://tests/run_throw_tests.gd:28)
+       [1] run (res://tests/run_throw_tests.gd:80)
+PASS: P2 U+O, 0-tick separation: one 110-damage throw and knockdown
+PASS: P2 U+O, 1-tick separation: one 110-damage throw and knockdown
+PASS: P2 U+O, 2-tick separation: one 110-damage throw and knockdown
+ERROR: FAIL: P2 U+O, 3-tick separation: one 110-damage throw and knockdown
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (res://tests/run_throw_tests.gd:28)
+       [1] run (res://tests/run_throw_tests.gd:80)
+ERROR: FAIL: P2 U+O, 4-tick separation: one 110-damage throw and knockdown
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (res://tests/run_throw_tests.gd:28)
+       [1] run (res://tests/run_throw_tests.gd:80)
+ERROR: FAIL: P2 U+O, 5-tick separation: one 110-damage throw and knockdown
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (res://tests/run_throw_tests.gd:28)
+       [1] run (res://tests/run_throw_tests.gd:80)
+PASS: P1 throw works after swapping sides
+PASS: P2 throw works after swapping sides
+ERROR: FAIL: P1 heavy-first chord also throws
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (res://tests/run_throw_tests.gd:28)
+       [1] run (res://tests/run_throw_tests.gd:86)
+ERROR: FAIL: P2 heavy-first chord also throws
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (res://tests/run_throw_tests.gd:28)
+       [1] run (res://tests/run_throw_tests.gd:86)
+PASS: Physical-key throw beats held guard
+PASS: Throw connects just inside 50-pixel centre distance
+PASS: Throw correctly whiffs at/outside 50-pixel centre distance
+PASS: Physical-key throw misses airborne opponent
+PASS: Own held block suppresses throw as specified
+PASS: Inputs outside six-tick keyboard chord window do not throw
+PASS: Releasing the first key prevents a delayed chord upgrade
+PASS: Single light keeps its original startup and never repeats
+PASS: Single heavy keeps its original startup and never repeats
+PASS: Literal letter L+H is not the Light+Heavy binding
+THROW RESULT: 21 passed, 11 failed

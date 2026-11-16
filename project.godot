@@ -1,0 +1,101 @@
+; Open with Godot 4.7.2 Standard. Simulation uses integer 60 Hz ticks.
+config_version=5
+
+[application]
+config/name="Lanka Rumble - VS-01"
+run/main_scene="res://scenes/main/main.tscn"
+run/max_fps=60
+config/features=PackedStringArray("4.7", "GL Compatibility")
+config/icon="res://icon.svg"
+
+[display]
+window/size/viewport_width=640
+window/size/viewport_height=360
+window/size/window_width_override=1280
+window/size/window_height_override=720
+window/stretch/mode="viewport"
+window/stretch/aspect="keep"
+window/handheld/orientation=0
+
+[physics]
+common/physics_ticks_per_second=60
+
+[controls]
+keyboard_throw_chord_ticks=6
+
+[rendering]
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
+textures/default_filters/use_nearest_mipmap_filter=false
+textures/canvas_textures/default_texture_filter=0
+environment/defaults/default_clear_color=Color(0.035, 0.05, 0.09, 1)
+
+[debug]
+gdscript/warnings/untyped_declaration=1
+
+[input]
+
+p1_left={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":65)]
+}
+p1_right={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":68)]
+}
+p1_up={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":87)]
+}
+p1_down={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":83)]
+}
+p1_light={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":74)]
+}
+p1_heavy={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":75)]
+}
+p1_special={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":76)]
+}
+p1_block={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":73)]
+}
+p2_left={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":4194319)]
+}
+p2_right={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":4194321)]
+}
+p2_up={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":4194320)]
+}
+p2_down={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":4194322)]
+}
+p2_light={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":4194439), Object(InputEventKey,"physical_keycode":85)]
+}
+p2_heavy={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":4194440), Object(InputEventKey,"physical_keycode":79)]
+}
+p2_special={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":4194441)]
+}
+p2_block={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"physical_keycode":4194443), Object(InputEventKey,"physical_keycode":80)]
+}

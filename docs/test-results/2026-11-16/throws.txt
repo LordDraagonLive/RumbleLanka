@@ -1,0 +1,23 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+PASS: P1 J+K, 0-tick separation: one 110-damage throw and knockdown
+PASS: P1 J+K, 1-tick separation: one 110-damage throw and knockdown
+PASS: P1 J+K, 2-tick separation: one 110-damage throw and knockdown
+PASS: P2 Num1+Num2, 0-tick separation: one 110-damage throw and knockdown
+PASS: P2 Num1+Num2, 1-tick separation: one 110-damage throw and knockdown
+PASS: P2 Num1+Num2, 2-tick separation: one 110-damage throw and knockdown
+PASS: P2 U+O, 0-tick separation: one 110-damage throw and knockdown
+PASS: P2 U+O, 1-tick separation: one 110-damage throw and knockdown
+PASS: P2 U+O, 2-tick separation: one 110-damage throw and knockdown
+PASS: P1 throw works after swapping sides
+PASS: P2 throw works after swapping sides
+PASS: P1 heavy-first chord also throws
+PASS: P2 heavy-first chord also throws
+PASS: Physical-key throw beats held guard
+PASS: Throw connects just inside 50-pixel centre distance
+PASS: Throw correctly whiffs at/outside 50-pixel centre distance
+PASS: Physical-key throw misses airborne opponent
+PASS: Own held block suppresses throw as specified
+PASS: Inputs outside three-tick chord window do not throw
+PASS: Literal letter L+H is not the Light+Heavy binding
+THROW RESULT: 20 passed, 0 failed

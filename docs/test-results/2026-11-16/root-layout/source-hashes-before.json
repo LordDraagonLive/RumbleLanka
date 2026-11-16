@@ -1,0 +1,426 @@
+﻿[
+    {
+        "RelativePath":  "AGENTS.md",
+        "SHA256":  "FD240A4BD16BA37366D18472E38C14B4A6C03D3566AF2F2311873BE667741A9A"
+    },
+    {
+        "RelativePath":  "README.md",
+        "SHA256":  "988E425289A82F1F1B93FD7B02512202046464A3E48E65FF612594FBFC20C236"
+    },
+    {
+        "RelativePath":  "CHANGELOG.md",
+        "SHA256":  "63D94971833D0907F60037F82FB4C085075E0E46562AC93B25CF93A1A5C6C40F"
+    },
+    {
+        "RelativePath":  "project.godot",
+        "SHA256":  "BF7DE7FDA305BF5FDB26B30F0EDCE9CA152018FEEFAD8A488A27A54B3275687C"
+    },
+    {
+        "RelativePath":  "export_presets.cfg",
+        "SHA256":  "A86C7E1DF755306BB571B78129031A1892A413F153BA20101819C5918E5B2181"
+    },
+    {
+        "RelativePath":  "icon.svg",
+        "SHA256":  "F782FF02CA2249D09C0EB57AC69372B66F0EB2923B312B7CEACFA38B4B21C729"
+    },
+    {
+        "RelativePath":  "icon.svg.import",
+        "SHA256":  "6304616C6D4D4CE355CF2EBDDD417BEECEC3AD7D4882699201CDB78D67F67CC7"
+    },
+    {
+        "RelativePath":  "assets\\ASSET-MANIFEST.md",
+        "SHA256":  "9B22622D0013087777468A93DC67658457FBB56CDEDEF0F9C5F9312792439C33"
+    },
+    {
+        "RelativePath":  "assets\\audio\\placeholders\\silence.tres",
+        "SHA256":  "032CA772AE3F931AECC0E090DE56D86CF22AE167F6205F86F9C288CCC4763246"
+    },
+    {
+        "RelativePath":  "docs\\01-PRODUCT-REQUIREMENTS.md",
+        "SHA256":  "E90010FB3F453B09482CBEB7957381834BB43BC46A8B684AE3F61B1E30ACA183"
+    },
+    {
+        "RelativePath":  "docs\\02-GAMEPLAY-COMBAT.md",
+        "SHA256":  "82A001980C77C4C0E5A4DC36AB48B5F14EBE69992BF685584103583C4113D6D5"
+    },
+    {
+        "RelativePath":  "docs\\03-FIGHTERS-CONTENT.md",
+        "SHA256":  "6F18B73BE6908DD28F4FDB5CE6BDC34A20E4BA3B913F55C8CFBC378F7DE09451"
+    },
+    {
+        "RelativePath":  "docs\\04-TECHNICAL-ARCHITECTURE.md",
+        "SHA256":  "DB3DD12923581995EFD8E91088AAE2F65C10F8F780E1E24AD6391987A84FF2AC"
+    },
+    {
+        "RelativePath":  "docs\\05-DATA-ASSETS-AUDIO.md",
+        "SHA256":  "0A0354CB9649588756C53477E62DBD3C40B24623D9EF40DADCA25686B851AE27"
+    },
+    {
+        "RelativePath":  "docs\\06-UX-PLATFORM.md",
+        "SHA256":  "2056D26B0C9EA7C2989DA3BA18BB0E95987A87E2D96E9B6C0A4C7A0EE2526422"
+    },
+    {
+        "RelativePath":  "docs\\07-MONETIZATION-RELEASE.md",
+        "SHA256":  "13FEE1CB352A4D54533578393A3700C95B3E582053D14956F8289BC3C4019E7A"
+    },
+    {
+        "RelativePath":  "docs\\08-BACKLOG-TEST-PLAN.md",
+        "SHA256":  "D41E59FB4D5972995DEB35EF2D8FA0B124D0388D918830BE75F264F36B9632AF"
+    },
+    {
+        "RelativePath":  "docs\\09-DECISIONS-RISKS.md",
+        "SHA256":  "D29B9EE1B3427224B87730FA53120C8F7D2AF3C7CBAACFE465D8582928E8D8C2"
+    },
+    {
+        "RelativePath":  "docs\\10-WINDOWS-PROTOTYPE.md",
+        "SHA256":  "8DD1C8EF19510C3305927F9F597B0ECD5E1DC505DAB7F549FBAF2848A19E690D"
+    },
+    {
+        "RelativePath":  "docs\\11-TEST-RESULTS.md",
+        "SHA256":  "B846B1AB477F1DA74330FCB46723E51D613D472C330D37A507FD017DF3755D2C"
+    },
+    {
+        "RelativePath":  "docs\\12-THROW-CHECK.md",
+        "SHA256":  "0294B350C0B29A046EE072468707261B9FC2869F06A8AABBE83D2FAEB2A42F2B"
+    },
+    {
+        "RelativePath":  "docs\\13-THROW-TIMING-FIX.md",
+        "SHA256":  "4CB71102D5CC39AFD37339E5B9187ACB0AF157A74472D9A798FF15E0B1EE07E3"
+    },
+    {
+        "RelativePath":  "docs\\test-results\\.gdignore",
+        "SHA256":  "01BA4719C80B6FE911B091A7C05124B64EEECE964E09C058EF8F9805DACA546B"
+    },
+    {
+        "RelativePath":  "docs\\test-results\\combat.txt",
+        "SHA256":  "7EC3F7AB6614D20F51D1D51B22DE47B90E55B537E0D4F89B9F99CD21EDEFE8FD"
+    },
+    {
+        "RelativePath":  "docs\\test-results\\export.txt",
+        "SHA256":  "4B4919F86ABB5ED7B366C39A951FE431FAFAE63E8E34A3353BAAF7154E69A13D"
+    },
+    {
+        "RelativePath":  "docs\\test-results\\import.txt",
+        "SHA256":  "5F7D326CD68FAE9D6B3A4A164A0697E2AB9B0F4615E62E8B0F100A2416B8739A"
+    },
+    {
+        "RelativePath":  "docs\\test-results\\rendered.txt",
+        "SHA256":  "3EFFC3359F49AA8CAEA1CA28D8B6417A00B3AE51A5FA552079B15EF47B295482"
+    },
+    {
+        "RelativePath":  "docs\\test-results\\scenes.txt",
+        "SHA256":  "40F7CCAAD0034204C5BA8623D6A5AE2B827BEA5F273222CDD1B11AA3855130E9"
+    },
+    {
+        "RelativePath":  "docs\\test-results\\standalone-headless.txt",
+        "SHA256":  "83CF0B082206AF2AA236C83064FBCFA76BE1E00A4AA3558574B2F65965D9481C"
+    },
+    {
+        "RelativePath":  "docs\\test-results\\standalone-rendered.txt",
+        "SHA256":  "99BCEBEFEC0FBC7C17D85F40AE3FBEABC9A65BC7F11B5BF26A7F0934E9D1D7C8"
+    },
+    {
+        "RelativePath":  "docs\\test-results\\2026-11-16\\combat.txt",
+        "SHA256":  "7EC3F7AB6614D20F51D1D51B22DE47B90E55B537E0D4F89B9F99CD21EDEFE8FD"
+    },
+    {
+        "RelativePath":  "docs\\test-results\\2026-11-16\\import.txt",
+        "SHA256":  "B728DE0C23F24D9AA31BC7608B177D7CA13857D7C3ACA862A08506D00675123B"
+    },
+    {
+        "RelativePath":  "docs\\test-results\\2026-11-16\\scenes.txt",
+        "SHA256":  "7647DF538C3C522C21AA403FB7C5FA10FACA313B5655ED45329167B84F6AC82E"
+    },
+    {
+        "RelativePath":  "docs\\test-results\\2026-11-16\\throw-export.txt",
+        "SHA256":  "4B4919F86ABB5ED7B366C39A951FE431FAFAE63E8E34A3353BAAF7154E69A13D"
+    },
+    {
+        "RelativePath":  "docs\\test-results\\2026-11-16\\throw-rendered.txt",
+        "SHA256":  "F67B7E278F3CD1C663FD4B775847CCA4A245BB2FC9AA73842B47DCA9E610022F"
+    },
+    {
+        "RelativePath":  "docs\\test-results\\2026-11-16\\throw-standalone.txt",
+        "SHA256":  "83CF0B082206AF2AA236C83064FBCFA76BE1E00A4AA3558574B2F65965D9481C"
+    },
+    {
+        "RelativePath":  "docs\\test-results\\2026-11-16\\throws.txt",
+        "SHA256":  "ABA492D8C108ACDD0D6F286F1C3DE66C3E30A487784C99A64EB180DC8809BCB5"
+    },
+    {
+        "RelativePath":  "docs\\test-results\\2026-11-16\\throw_attempt.png",
+        "SHA256":  "8A53A2030850E0AFCEA2B36B8872B834C33723F32A8ACACB286E3E350999FE68"
+    },
+    {
+        "RelativePath":  "docs\\test-results\\2026-11-16\\throw_attempt.png.import",
+        "SHA256":  "B863D5C11B9ACDE48502C9195A25684D53AC9D119D6FA1BCDCF4E0DB8288E96B"
+    },
+    {
+        "RelativePath":  "docs\\test-results\\2026-11-16\\throw_hit.png",
+        "SHA256":  "EDB0071D478B586E017F0395FA216478AA7E7E66B7E72C26EE661BF766931515"
+    },
+    {
+        "RelativePath":  "docs\\test-results\\2026-11-16\\throw_hit.png.import",
+        "SHA256":  "FFA844F1DF1EB674E01F1C2722309FB3A965306208E3E2CEFC7BAC76F8774153"
+    },
+    {
+        "RelativePath":  "docs\\test-results\\2026-11-16\\chord-fix\\combat.txt",
+        "SHA256":  "7EC3F7AB6614D20F51D1D51B22DE47B90E55B537E0D4F89B9F99CD21EDEFE8FD"
+    },
+    {
+        "RelativePath":  "docs\\test-results\\2026-11-16\\chord-fix\\import.txt",
+        "SHA256":  "A1BB8311A2D5147DC7F28499EC422F95E9916B9AE01383C9CB0ECDCAAD17BA39"
+    },
+    {
+        "RelativePath":  "docs\\test-results\\2026-11-16\\chord-fix\\scenes.txt",
+        "SHA256":  "F5AAEC1C428BCF00D1263FFC98745C18F618CD58B76A961E8C95EFA10C800DC0"
+    },
+    {
+        "RelativePath":  "docs\\test-results\\2026-11-16\\chord-fix\\throw-timing-before.txt",
+        "SHA256":  "1D3990717363714A660226A137BA77535A2A4F0729B29261A92A32368D93DB56"
+    },
+    {
+        "RelativePath":  "docs\\test-results\\2026-11-16\\chord-fix\\throw-timing-export.txt",
+        "SHA256":  "4B4919F86ABB5ED7B366C39A951FE431FAFAE63E8E34A3353BAAF7154E69A13D"
+    },
+    {
+        "RelativePath":  "docs\\test-results\\2026-11-16\\chord-fix\\throw-timing-rendered.txt",
+        "SHA256":  "6C225A1FA056280565E704F91E9738A99F0DA2705396CFE3D56743FEFC434340"
+    },
+    {
+        "RelativePath":  "docs\\test-results\\2026-11-16\\chord-fix\\throw-timing-standalone-rendered.txt",
+        "SHA256":  "99BCEBEFEC0FBC7C17D85F40AE3FBEABC9A65BC7F11B5BF26A7F0934E9D1D7C8"
+    },
+    {
+        "RelativePath":  "docs\\test-results\\2026-11-16\\chord-fix\\throw-timing-standalone.txt",
+        "SHA256":  "83CF0B082206AF2AA236C83064FBCFA76BE1E00A4AA3558574B2F65965D9481C"
+    },
+    {
+        "RelativePath":  "docs\\test-results\\2026-11-16\\chord-fix\\throws.txt",
+        "SHA256":  "C98D59A9C9F229F4034A744770BC9B49F429630E0CD4EA6C5F7B0010B5BF5853"
+    },
+    {
+        "RelativePath":  "examples\\dialogue.sample.json",
+        "SHA256":  "F43700301A7BD6E2EBF6579F6A235EC2F768827799A088648AD5D137F5C91E74"
+    },
+    {
+        "RelativePath":  "examples\\fighter.sample.json",
+        "SHA256":  "663294B85E603E71BAB5081A811D53F11FBBCE12E772FEC885A453F5AD4783C6"
+    },
+    {
+        "RelativePath":  "prompts\\START-CODEX.md",
+        "SHA256":  "1DB7C09672DDE8452F1E53CCCCEA8BBF8F29DA7F14CF91A8E61B9F952904D70B"
+    },
+    {
+        "RelativePath":  "references\\.gdignore",
+        "SHA256":  "01BA4719C80B6FE911B091A7C05124B64EEECE964E09C058EF8F9805DACA546B"
+    },
+    {
+        "RelativePath":  "references\\chamara\\README.md",
+        "SHA256":  "40886B9BBF8D7D5063A363C0BF90F1503DE937B67C788B0EC0229C3D47B7F5BA"
+    },
+    {
+        "RelativePath":  "references\\chamara\\reference-01.png",
+        "SHA256":  "071ABFB254BB50A3B6E6D984F964AA14F78536F46386DE0F64B62F35C7C8083F"
+    },
+    {
+        "RelativePath":  "references\\chamara\\reference-02.png",
+        "SHA256":  "F0BEEB5D86B2B1323732B180211F3252EB44D633E899D05A895430907C786E1B"
+    },
+    {
+        "RelativePath":  "resources\\attacks\\air_heavy.tres",
+        "SHA256":  "7A9522EF90A997D0FAE3824E57D60690D451C92948A8CB4FF132352C2ED95AFC"
+    },
+    {
+        "RelativePath":  "resources\\attacks\\air_light.tres",
+        "SHA256":  "243FDA1DEE4A9858739C2FC9E35B6A43386509CC52E7BAB96A276447D031A84E"
+    },
+    {
+        "RelativePath":  "resources\\attacks\\crouch_heavy.tres",
+        "SHA256":  "9126B1FEA76D7BF575B5E6F1972046782BBD86C3987C876857E74E122E6FB5A2"
+    },
+    {
+        "RelativePath":  "resources\\attacks\\crouch_light.tres",
+        "SHA256":  "D0F683D2617C36D37A831FF71E2F9E1514EC2BCBFF68A3F5A63A16277999D524"
+    },
+    {
+        "RelativePath":  "resources\\attacks\\heavy.tres",
+        "SHA256":  "F696D2D27B7D0A0737A7FC15694B9128D6192270D3E7357A5D8C1D1733F29582"
+    },
+    {
+        "RelativePath":  "resources\\attacks\\light.tres",
+        "SHA256":  "D66BCC60DC5CCD98E4D435E6B7B514FD7A7F74D3CD3D9352541C1C5E7214B0D6"
+    },
+    {
+        "RelativePath":  "resources\\attacks\\throw.tres",
+        "SHA256":  "1C8A6DEDA788C1FAFA0B603E24BEDBD96CB06152CE05B5F66897B140AF066862"
+    },
+    {
+        "RelativePath":  "resources\\fighters\\placeholder_a.tres",
+        "SHA256":  "D70922B3F840F21DFB205D532EE311EBF5628689A0018EA84F9EE4591A7CE297"
+    },
+    {
+        "RelativePath":  "resources\\fighters\\placeholder_b.tres",
+        "SHA256":  "97DFB8A77ACE7981C850E8C0C1E8D87DDF008AA7566F1602481F492561D1512C"
+    },
+    {
+        "RelativePath":  "resources\\stages\\debug_arena.tres",
+        "SHA256":  "F798B078A1C50CFEC3BBEF416E78741874CBCD4755F0D3623F42823C34000294"
+    },
+    {
+        "RelativePath":  "scenes\\fighter\\fighter.tscn",
+        "SHA256":  "C7DA7139EFF145BA0D3FB3747954DD396C0D9ED60B726D837BC97AF34D134F8D"
+    },
+    {
+        "RelativePath":  "scenes\\main\\main.tscn",
+        "SHA256":  "994E2A8A5A27C6E0F3EAC63F4CC25D7B32A68F1A84FC958861ECAF409AA36D10"
+    },
+    {
+        "RelativePath":  "scenes\\match\\match.tscn",
+        "SHA256":  "2FD6BE643082ABF6EA49C3FB7DEEE4853AC363AD35A50C6B146EA8D52D9B5841"
+    },
+    {
+        "RelativePath":  "scripts\\audio\\placeholder_audio.gd",
+        "SHA256":  "ED7D553704D27DEC870C809327BEA5DDFF16833548844334426AA5AD9D977EB7"
+    },
+    {
+        "RelativePath":  "scripts\\audio\\placeholder_audio.gd.uid",
+        "SHA256":  "5C23B22CB470891C3759EBB31ED3A240858FE13C3B36810885AF3C1D7C4C4485"
+    },
+    {
+        "RelativePath":  "scripts\\combat\\combat_resolver.gd",
+        "SHA256":  "E5AB17A12797525579B00DBD84DBF9B756752F5A7A713BBFA306B0720A65BFDA"
+    },
+    {
+        "RelativePath":  "scripts\\combat\\combat_resolver.gd.uid",
+        "SHA256":  "66E060D33FAE38C5B412459DF398CF143B998FD4B5D32DF39A30FEFAE4844A70"
+    },
+    {
+        "RelativePath":  "scripts\\core\\game_flow.gd",
+        "SHA256":  "AFD381B76BF843F74A8C196B8D820663936FD889A3C484E084687A96B0B2217E"
+    },
+    {
+        "RelativePath":  "scripts\\core\\game_flow.gd.uid",
+        "SHA256":  "B14530519137B320F46A4AD8E5E37FC475E6D53D97248B9B42ACD717294F63C2"
+    },
+    {
+        "RelativePath":  "scripts\\core\\match_manager.gd",
+        "SHA256":  "E1A7F3534C100B57DCA08B7031EE2F9BC46ED75ADDBDD32A623BA6F97DD3DC6B"
+    },
+    {
+        "RelativePath":  "scripts\\core\\match_manager.gd.uid",
+        "SHA256":  "D5D7A9E14EA760DBB075CD2D20CE1A788674DF7284F7E8EBEBE1E8CD372E1B3F"
+    },
+    {
+        "RelativePath":  "scripts\\core\\match_simulation.gd",
+        "SHA256":  "E4A5CEE063A1151D23943D039FC0437F311FC6BC2E7E586496E7FB49B82E72B0"
+    },
+    {
+        "RelativePath":  "scripts\\core\\match_simulation.gd.uid",
+        "SHA256":  "A75E2CB2BB7B00420CC5A30E78331E68F546787173E876F6216DC3A56B762379"
+    },
+    {
+        "RelativePath":  "scripts\\data\\attack_definition.gd",
+        "SHA256":  "CD157F38080D5E111F1B58BFABA3DF3790A6070FBD642741651A28E93711209A"
+    },
+    {
+        "RelativePath":  "scripts\\data\\attack_definition.gd.uid",
+        "SHA256":  "79C9030F898B11C0236EC171E00974A73B1F91973D85524183AE39835574E06A"
+    },
+    {
+        "RelativePath":  "scripts\\data\\fighter_definition.gd",
+        "SHA256":  "CD7793549AC8E3C00B17F28DADB0D2C7A83B3B36FA39DAD280609263504B6B89"
+    },
+    {
+        "RelativePath":  "scripts\\data\\fighter_definition.gd.uid",
+        "SHA256":  "B39F808270121613032EF71D4220FF217762240EF6E3328ED566C5EBCB5B2EC6"
+    },
+    {
+        "RelativePath":  "scripts\\data\\stage_definition.gd",
+        "SHA256":  "390FB3A96777FDDBC450D557A72114018BCDD6287A1128B8917AAA28FB2D135C"
+    },
+    {
+        "RelativePath":  "scripts\\data\\stage_definition.gd.uid",
+        "SHA256":  "67017E4FBC9A0083F6B774A225F59AA2C6AECECA1086C63B9E6F1792F9F77509"
+    },
+    {
+        "RelativePath":  "scripts\\fighter\\fighter_controller.gd",
+        "SHA256":  "7C1BA82E4D7BCE472EFC0B34923408EAA796518C033D396C7E099481F903DA62"
+    },
+    {
+        "RelativePath":  "scripts\\fighter\\fighter_controller.gd.uid",
+        "SHA256":  "A64C2E224DEA049FE4F6837648A6F89FAEC282A33DBF6CB9ED54935DA1E5DA71"
+    },
+    {
+        "RelativePath":  "scripts\\fighter\\fighter_state.gd",
+        "SHA256":  "8B4A73E51A30D79A9400F65286F8D820229A24364ED9A124ACD75D4D13F0F6AE"
+    },
+    {
+        "RelativePath":  "scripts\\fighter\\fighter_state.gd.uid",
+        "SHA256":  "9F66E909C27D3ED3EE7E78D032F422C7CC370620EAEC73C5613C7E1BCD2AB60E"
+    },
+    {
+        "RelativePath":  "scripts\\input\\input_frame.gd",
+        "SHA256":  "83BF7FFADEF49580F4B1D2A0436D3E268EF8DF8E50FEC891CCC6F334EE91893F"
+    },
+    {
+        "RelativePath":  "scripts\\input\\input_frame.gd.uid",
+        "SHA256":  "5CEB56A0FD78F8736050481F307146C9015723FA985E33745C88C359217F88C7"
+    },
+    {
+        "RelativePath":  "scripts\\input\\local_input_adapter.gd",
+        "SHA256":  "3213375A3B034B64FA16DA5E3FB8D7C35023C8AB304F03F75A49522D1AD1B020"
+    },
+    {
+        "RelativePath":  "scripts\\input\\local_input_adapter.gd.uid",
+        "SHA256":  "8E1FD8762657EA2DC115578CBC29EB446C79E3AE3489160FB0149A3A97FFBD0E"
+    },
+    {
+        "RelativePath":  "scripts\\presentation\\fight_hud.gd",
+        "SHA256":  "28278589B99387B1DC46A20A4C22A85E12C5BADB012516ED117197E800CCDF80"
+    },
+    {
+        "RelativePath":  "scripts\\presentation\\fight_hud.gd.uid",
+        "SHA256":  "5B06C70F29FE9BE6BD0E511653BDAA960AF2A18AFF26ED1F0848401E0C2D9C06"
+    },
+    {
+        "RelativePath":  "scripts\\presentation\\match_view.gd",
+        "SHA256":  "95A8B249790EED148D3CA02F1D583E53D9085AC440062C193F79699B912F3960"
+    },
+    {
+        "RelativePath":  "scripts\\presentation\\match_view.gd.uid",
+        "SHA256":  "29EE0D952D27389545E5A442C3DCECBA3A9FF232857426FC4F91995F6961544A"
+    },
+    {
+        "RelativePath":  "tests\\run_scene_tests.gd",
+        "SHA256":  "52E15C132616AEB9ADEB7386B9114E726C98439C7A0D7B749D5213DFFAE4A17B"
+    },
+    {
+        "RelativePath":  "tests\\run_scene_tests.gd.uid",
+        "SHA256":  "7463F1807F1C802CE0AF46658AD924E46CC56FFF918A9A4FE21940D95F89FC97"
+    },
+    {
+        "RelativePath":  "tests\\run_tests.gd",
+        "SHA256":  "FA7EF40AA9A7E1132BA3D31DE04B7A48645918E2B104806EC23C1FCD1AB6097E"
+    },
+    {
+        "RelativePath":  "tests\\run_tests.gd.uid",
+        "SHA256":  "23376A7B89E31D4D59C201D416BEA14EF8D9E514192222DF7DCB904E9537E97B"
+    },
+    {
+        "RelativePath":  "tests\\run_throw_tests.gd",
+        "SHA256":  "7303FF6E6E68F374E60B7DBF904FB0BF7ABAA4F85CA74432AF941457763AE6AF"
+    },
+    {
+        "RelativePath":  "tests\\run_throw_tests.gd.uid",
+        "SHA256":  "B58DB5DBAF3B09A4FF2840F42CD136601303B5A1E700079CFA36E15DE7BDF3FD"
+    },
+    {
+        "RelativePath":  "tools\\build-windows.ps1",
+        "SHA256":  "F479912E5348D46057B1478F07FEEE2CDDD450357C5C855225F86DF158CCD3F3"
+    },
+    {
+        "RelativePath":  "tools\\test.ps1",
+        "SHA256":  "378E4C529814F57EA9D818A1F1F72B60F31576F62FF768AE5381ADCE4F63AF37"
+    }
+]

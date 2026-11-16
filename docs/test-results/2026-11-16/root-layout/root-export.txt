@@ -1,0 +1,93 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+[   0% ] [90m[1mfirst_scan_filesystem[22m | Started Project initialization (5 steps)[39m[0m
+[   0% ] [90m[1mfirst_scan_filesystem[22m | Scanning file structure...[39m[0m
+[  16% ] [90m[1mfirst_scan_filesystem[22m | Loading global class names...[39m[0m
+[  33% ] [90m[1mfirst_scan_filesystem[22m | Verifying GDExtensions...[39m[0m
+[  50% ] [90m[1mfirst_scan_filesystem[22m | Creating autoload scripts...[39m[0m
+[  66% ] [90m[1mfirst_scan_filesystem[22m | Initializing plugins...[39m[0m
+[  83% ] [90m[1mfirst_scan_filesystem[22m | Starting file scan...[39m[0m
+[92m[ DONE ][39m [1mfirst_scan_filesystem[22m
+[0m
+[   0% ] [90m[1mloading_editor_layout[22m | Started Loading editor (5 steps)[39m[0m
+[   0% ] [90m[1mloading_editor_layout[22m | Loading editor layout...[39m[0m
+[  16% ] [90m[1mloading_editor_layout[22m | Loading docks...[39m[0m
+[92m[ DONE ][39m [1mloading_editor_layout[22m
+[0m
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+[   0% ] [90m[1mfirst_scan_filesystem[22m | Started Project initialization (5 steps)[39m[0m
+[   0% ] [90m[1mfirst_scan_filesystem[22m | Scanning file structure...[39m[0m
+[  16% ] [90m[1mfirst_scan_filesystem[22m | Loading global class names...[39m[0m
+[  33% ] [90m[1mfirst_scan_filesystem[22m | Verifying GDExtensions...[39m[0m
+[  50% ] [90m[1mfirst_scan_filesystem[22m | Creating autoload scripts...[39m[0m
+[  66% ] [90m[1mfirst_scan_filesystem[22m | Initializing plugins...[39m[0m
+[  83% ] [90m[1mfirst_scan_filesystem[22m | Starting file scan...[39m[0m
+[92m[ DONE ][39m [1mfirst_scan_filesystem[22m
+[0m
+[   0% ] [90m[1msavepack[22m | Started Packing (102 steps)[39m[0m
+[   1% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-e4518a80847c3b6791db953cc6d039c4-silence.res[39m[0m
+[   4% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-143e161d1de14cad2278a4c01129dabd-air_heavy.res[39m[0m
+[   7% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-454cb6c1d008d8a19f62bf5089c3f12b-air_light.res[39m[0m
+[  11% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-2e1e84c5360e6dbc436cc5a60b2f7255-crouch_heavy.res[39m[0m
+[  14% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-7d207558bf982ecad6d96f63eb992dd7-crouch_light.res[39m[0m
+[  18% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-c9acf81a63787fc2358b0b767aeaa055-heavy.res[39m[0m
+[  21% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-199af7f1ccc0a86e55bb995b8239d729-light.res[39m[0m
+[  25% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-90d63538288e7bd635deceb42de2e675-throw.res[39m[0m
+[  28% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-e04a454b19ae4ff30b3f720b3812df3d-placeholder_a.res[39m[0m
+[  32% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-5b1d108dffce71443103d6f1502d8b8a-placeholder_b.res[39m[0m
+[  34% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-8aeafa8e948e3fcd171d2bc0e9f8e4bd-debug_arena.res[39m[0m
+[  37% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-84a51eeec0d2f7ff31b3abcdec8eb072-fighter.scn[39m[0m
+[  41% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-f39996a6d27a38698d16421ab974097b-main.scn[39m[0m
+[  44% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-c73081ee41be8ee43f1e1de0432acf20-match.scn[39m[0m
+[  48% ] [90m[1msavepack[22m | Storing File: res://scripts/audio/placeholder_audio.gdc[39m[0m
+[  51% ] [90m[1msavepack[22m | Storing File: res://scripts/combat/combat_resolver.gdc[39m[0m
+[  55% ] [90m[1msavepack[22m | Storing File: res://scripts/core/game_flow.gdc[39m[0m
+[  58% ] [90m[1msavepack[22m | Storing File: res://scripts/core/match_manager.gdc[39m[0m
+[  62% ] [90m[1msavepack[22m | Storing File: res://scripts/core/match_simulation.gdc[39m[0m
+[  65% ] [90m[1msavepack[22m | Storing File: res://scripts/data/attack_definition.gdc[39m[0m
+[  67% ] [90m[1msavepack[22m | Storing File: res://scripts/data/fighter_definition.gdc[39m[0m
+[  71% ] [90m[1msavepack[22m | Storing File: res://scripts/data/stage_definition.gdc[39m[0m
+[  74% ] [90m[1msavepack[22m | Storing File: res://scripts/fighter/fighter_controller.gdc[39m[0m
+[  78% ] [90m[1msavepack[22m | Storing File: res://scripts/fighter/fighter_state.gdc[39m[0m
+[  81% ] [90m[1msavepack[22m | Storing File: res://scripts/input/input_frame.gdc[39m[0m
+[  85% ] [90m[1msavepack[22m | Storing File: res://scripts/input/local_input_adapter.gdc[39m[0m
+[  88% ] [90m[1msavepack[22m | Storing File: res://scripts/presentation/fight_hud.gdc[39m[0m
+[  92% ] [90m[1msavepack[22m | Storing File: res://scripts/presentation/match_view.gdc[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://icon.svg.import[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://assets/audio/placeholders/silence.tres.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://resources/attacks/air_heavy.tres.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://resources/attacks/air_light.tres.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://resources/attacks/crouch_heavy.tres.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://resources/attacks/crouch_light.tres.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://resources/attacks/heavy.tres.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://resources/attacks/light.tres.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://resources/attacks/throw.tres.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://resources/fighters/placeholder_a.tres.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://resources/fighters/placeholder_b.tres.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://resources/stages/debug_arena.tres.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://scenes/fighter/fighter.tscn.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://scenes/main/main.tscn.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://scenes/match/match.tscn.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://scripts/audio/placeholder_audio.gd.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://scripts/combat/combat_resolver.gd.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://scripts/core/game_flow.gd.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://scripts/core/match_manager.gd.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://scripts/core/match_simulation.gd.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://scripts/data/attack_definition.gd.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://scripts/data/fighter_definition.gd.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://scripts/data/stage_definition.gd.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://scripts/fighter/fighter_controller.gd.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://scripts/fighter/fighter_state.gd.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://scripts/input/input_frame.gd.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://scripts/input/local_input_adapter.gd.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://scripts/presentation/fight_hud.gd.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://scripts/presentation/match_view.gd.remap[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://.godot/global_script_class_cache.cfg[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://icon.svg[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://.godot/uid_cache.bin[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://project.binary[39m[0m
+[92m[ DONE ][39m [1msavepack[22m
+[0m
+Built C:\Personal\HelaGen\Projects\RumbleLanka\builds\windows/LankaRumble.exe. Keep the .exe and .pck together.

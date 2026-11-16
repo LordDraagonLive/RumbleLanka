@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="AttackDefinition" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/data/attack_definition.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+id = &"air_light"
+startup_ticks = 6
+active_ticks = 4
+recovery_ticks = 5
+damage = 35
+hit_level = "overhead"
+hitstun_ticks = 11
+blockstun_ticks = 8
+hitstop_ticks = 4
+knockback = 10.0
+knockdown = false
+hitbox = Rect2(10, -45, 42, 45)
+sound_event = &"air_light"

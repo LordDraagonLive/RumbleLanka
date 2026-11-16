@@ -1,0 +1,178 @@
+Pre-edit relocation verified 106 matching SHA-256 source/evidence files.
+PASS: Preserved bytes: project.godot
+PASS: Preserved bytes: export_presets.cfg
+PASS: Preserved bytes: icon.svg
+PASS: Preserved bytes: icon.svg.import
+PASS: Preserved bytes: assets/ASSET-MANIFEST.md
+PASS: Preserved bytes: assets/audio/placeholders/silence.tres
+PASS: Preserved bytes: examples/dialogue.sample.json
+PASS: Preserved bytes: examples/fighter.sample.json
+PASS: Preserved bytes: prompts/START-CODEX.md
+PASS: Preserved bytes: references/.gdignore
+PASS: Preserved bytes: references/chamara/README.md
+PASS: Preserved bytes: references/chamara/reference-01.png
+PASS: Preserved bytes: references/chamara/reference-02.png
+PASS: Preserved bytes: resources/attacks/air_heavy.tres
+PASS: Preserved bytes: resources/attacks/air_light.tres
+PASS: Preserved bytes: resources/attacks/crouch_heavy.tres
+PASS: Preserved bytes: resources/attacks/crouch_light.tres
+PASS: Preserved bytes: resources/attacks/heavy.tres
+PASS: Preserved bytes: resources/attacks/light.tres
+PASS: Preserved bytes: resources/attacks/throw.tres
+PASS: Preserved bytes: resources/fighters/placeholder_a.tres
+PASS: Preserved bytes: resources/fighters/placeholder_b.tres
+PASS: Preserved bytes: resources/stages/debug_arena.tres
+PASS: Preserved bytes: scenes/fighter/fighter.tscn
+PASS: Preserved bytes: scenes/main/main.tscn
+PASS: Preserved bytes: scenes/match/match.tscn
+PASS: Preserved bytes: scripts/audio/placeholder_audio.gd
+PASS: Preserved bytes: scripts/audio/placeholder_audio.gd.uid
+PASS: Preserved bytes: scripts/combat/combat_resolver.gd
+PASS: Preserved bytes: scripts/combat/combat_resolver.gd.uid
+PASS: Preserved bytes: scripts/core/game_flow.gd
+PASS: Preserved bytes: scripts/core/game_flow.gd.uid
+PASS: Preserved bytes: scripts/core/match_manager.gd
+PASS: Preserved bytes: scripts/core/match_manager.gd.uid
+PASS: Preserved bytes: scripts/core/match_simulation.gd
+PASS: Preserved bytes: scripts/core/match_simulation.gd.uid
+PASS: Preserved bytes: scripts/data/attack_definition.gd
+PASS: Preserved bytes: scripts/data/attack_definition.gd.uid
+PASS: Preserved bytes: scripts/data/fighter_definition.gd
+PASS: Preserved bytes: scripts/data/fighter_definition.gd.uid
+PASS: Preserved bytes: scripts/data/stage_definition.gd
+PASS: Preserved bytes: scripts/data/stage_definition.gd.uid
+PASS: Preserved bytes: scripts/fighter/fighter_controller.gd
+PASS: Preserved bytes: scripts/fighter/fighter_controller.gd.uid
+PASS: Preserved bytes: scripts/fighter/fighter_state.gd
+PASS: Preserved bytes: scripts/fighter/fighter_state.gd.uid
+PASS: Preserved bytes: scripts/input/input_frame.gd
+PASS: Preserved bytes: scripts/input/input_frame.gd.uid
+PASS: Preserved bytes: scripts/input/local_input_adapter.gd
+PASS: Preserved bytes: scripts/input/local_input_adapter.gd.uid
+PASS: Preserved bytes: scripts/presentation/fight_hud.gd
+PASS: Preserved bytes: scripts/presentation/fight_hud.gd.uid
+PASS: Preserved bytes: scripts/presentation/match_view.gd
+PASS: Preserved bytes: scripts/presentation/match_view.gd.uid
+PASS: Preserved bytes: tests/run_scene_tests.gd
+PASS: Preserved bytes: tests/run_scene_tests.gd.uid
+PASS: Preserved bytes: tests/run_tests.gd
+PASS: Preserved bytes: tests/run_tests.gd.uid
+PASS: Preserved bytes: tests/run_throw_tests.gd
+PASS: Preserved bytes: tests/run_throw_tests.gd.uid
+PASS: Preserved bytes: tools/build-windows.ps1
+PASS: Preserved bytes: tools/test.ps1
+Preserved runtime/config/test/helper/reference/example/prompt files: 62
+PASS: Former extraction wrapper removed
+PASS: Exactly one project.godot, at repository root
+PASS: No former project prefix: scripts/audio/placeholder_audio.gd
+PASS: No former project prefix: scripts/combat/combat_resolver.gd
+PASS: No former project prefix: scripts/core/game_flow.gd
+PASS: No former project prefix: scripts/core/match_manager.gd
+PASS: No former project prefix: scripts/core/match_simulation.gd
+PASS: No former project prefix: scripts/data/attack_definition.gd
+PASS: No former project prefix: scripts/data/fighter_definition.gd
+PASS: No former project prefix: scripts/data/stage_definition.gd
+PASS: No former project prefix: scripts/fighter/fighter_controller.gd
+PASS: No former project prefix: scripts/fighter/fighter_state.gd
+PASS: No former project prefix: scripts/input/input_frame.gd
+PASS: No former project prefix: scripts/input/local_input_adapter.gd
+PASS: No former project prefix: scripts/presentation/fight_hud.gd
+PASS: No former project prefix: scripts/presentation/match_view.gd
+PASS: No former project prefix: tests/run_scene_tests.gd
+PASS: No former project prefix: tests/run_tests.gd
+PASS: No former project prefix: tests/run_throw_tests.gd
+PASS: All 21 static res:// references resolve at root
+PASS: Documentation link: README.md -> docs/10-WINDOWS-PROTOTYPE.md
+PASS: Documentation link: README.md -> docs/00-SPECIFICATION-OVERVIEW.md
+PASS: Documentation link: README.md -> docs/02-GAMEPLAY-COMBAT.md
+PASS: Documentation link: README.md -> docs/04-TECHNICAL-ARCHITECTURE.md
+PASS: Documentation link: README.md -> docs/08-BACKLOG-TEST-PLAN.md
+PASS: Documentation link: README.md -> docs/09-DECISIONS-RISKS.md
+PASS: Documentation link: README.md -> docs/11-TEST-RESULTS.md
+PASS: Documentation link: README.md -> docs/13-THROW-TIMING-FIX.md
+PASS: Documentation link: README.md -> docs/14-PROJECT-STRUCTURE.md
+PASS: Documentation link: README.md -> CHANGELOG.md
+PASS: Documentation link: docs/00-SPECIFICATION-OVERVIEW.md -> ../README.md
+PASS: Documentation link: docs/00-SPECIFICATION-OVERVIEW.md -> ../AGENTS.md
+PASS: Documentation link: docs/00-SPECIFICATION-OVERVIEW.md -> 01-PRODUCT-REQUIREMENTS.md
+PASS: Documentation link: docs/00-SPECIFICATION-OVERVIEW.md -> 02-GAMEPLAY-COMBAT.md
+PASS: Documentation link: docs/00-SPECIFICATION-OVERVIEW.md -> 03-FIGHTERS-CONTENT.md
+PASS: Documentation link: docs/00-SPECIFICATION-OVERVIEW.md -> 04-TECHNICAL-ARCHITECTURE.md
+PASS: Documentation link: docs/00-SPECIFICATION-OVERVIEW.md -> 05-DATA-ASSETS-AUDIO.md
+PASS: Documentation link: docs/00-SPECIFICATION-OVERVIEW.md -> 06-UX-PLATFORM.md
+PASS: Documentation link: docs/00-SPECIFICATION-OVERVIEW.md -> 07-MONETIZATION-RELEASE.md
+PASS: Documentation link: docs/00-SPECIFICATION-OVERVIEW.md -> 08-BACKLOG-TEST-PLAN.md
+PASS: Documentation link: docs/00-SPECIFICATION-OVERVIEW.md -> 09-DECISIONS-RISKS.md
+PASS: Documentation link: docs/00-SPECIFICATION-OVERVIEW.md -> ../prompts/START-CODEX.md
+PASS: Documentation link: docs/00-SPECIFICATION-OVERVIEW.md -> 14-PROJECT-STRUCTURE.md
+PASS: Documentation link: docs/04-TECHNICAL-ARCHITECTURE.md -> 14-PROJECT-STRUCTURE.md
+PASS: Documentation link: docs/10-WINDOWS-PROTOTYPE.md -> 13-THROW-TIMING-FIX.md
+PASS: Documentation link: docs/11-TEST-RESULTS.md -> 10-WINDOWS-PROTOTYPE.md
+PASS: Documentation link: docs/11-TEST-RESULTS.md -> 14-PROJECT-STRUCTURE.md
+PASS: Documentation link: docs/11-TEST-RESULTS.md -> 12-THROW-CHECK.md
+PASS: Documentation link: docs/11-TEST-RESULTS.md -> test-results/import.txt
+PASS: Documentation link: docs/11-TEST-RESULTS.md -> test-results/combat.txt
+PASS: Documentation link: docs/11-TEST-RESULTS.md -> test-results/scenes.txt
+PASS: Documentation link: docs/11-TEST-RESULTS.md -> test-results/rendered.txt
+PASS: Documentation link: docs/11-TEST-RESULTS.md -> test-results/export.txt
+PASS: Documentation link: docs/11-TEST-RESULTS.md -> test-results/standalone-headless.txt
+PASS: Documentation link: docs/11-TEST-RESULTS.md -> test-results/standalone-rendered.txt
+PASS: Documentation link: docs/11-TEST-RESULTS.md -> 10-WINDOWS-PROTOTYPE.md
+PASS: Documentation link: docs/12-THROW-CHECK.md -> 10-WINDOWS-PROTOTYPE.md
+PASS: Documentation link: docs/12-THROW-CHECK.md -> 14-PROJECT-STRUCTURE.md
+PASS: Documentation link: docs/12-THROW-CHECK.md -> 13-THROW-TIMING-FIX.md
+PASS: Documentation link: docs/12-THROW-CHECK.md -> test-results/2026-11-16/import.txt
+PASS: Documentation link: docs/12-THROW-CHECK.md -> test-results/2026-11-16/combat.txt
+PASS: Documentation link: docs/12-THROW-CHECK.md -> test-results/2026-11-16/throws.txt
+PASS: Documentation link: docs/12-THROW-CHECK.md -> test-results/2026-11-16/scenes.txt
+PASS: Documentation link: docs/12-THROW-CHECK.md -> test-results/2026-11-16/throw-rendered.txt
+PASS: Documentation link: docs/12-THROW-CHECK.md -> test-results/2026-11-16/throw-export.txt
+PASS: Documentation link: docs/12-THROW-CHECK.md -> test-results/2026-11-16/throw-standalone.txt
+PASS: Documentation link: docs/12-THROW-CHECK.md -> test-results/2026-11-16/throw_attempt.png
+PASS: Documentation link: docs/12-THROW-CHECK.md -> test-results/2026-11-16/throw_hit.png
+PASS: Documentation link: docs/13-THROW-TIMING-FIX.md -> 10-WINDOWS-PROTOTYPE.md
+PASS: Documentation link: docs/13-THROW-TIMING-FIX.md -> 14-PROJECT-STRUCTURE.md
+PASS: Documentation link: docs/13-THROW-TIMING-FIX.md -> test-results/2026-11-16/chord-fix/throw-timing-before.txt
+PASS: Documentation link: docs/13-THROW-TIMING-FIX.md -> test-results/2026-11-16/chord-fix/throws.txt
+PASS: Documentation link: docs/13-THROW-TIMING-FIX.md -> test-results/2026-11-16/chord-fix/combat.txt
+PASS: Documentation link: docs/13-THROW-TIMING-FIX.md -> test-results/2026-11-16/chord-fix/scenes.txt
+PASS: Documentation link: docs/13-THROW-TIMING-FIX.md -> test-results/2026-11-16/chord-fix/throw-timing-rendered.txt
+PASS: Documentation link: docs/13-THROW-TIMING-FIX.md -> test-results/2026-11-16/chord-fix/import.txt
+PASS: Documentation link: docs/13-THROW-TIMING-FIX.md -> test-results/2026-11-16/chord-fix/throw-timing-export.txt
+PASS: Documentation link: docs/13-THROW-TIMING-FIX.md -> test-results/2026-11-16/chord-fix/throw-timing-standalone.txt
+PASS: Documentation link: docs/13-THROW-TIMING-FIX.md -> test-results/2026-11-16/chord-fix/throw-timing-standalone-rendered.txt
+PASS: Documentation link: docs/14-PROJECT-STRUCTURE.md -> test-results/2026-11-16/root-layout/source-hashes-before.json
+PASS: Documentation link: docs/14-PROJECT-STRUCTURE.md -> test-results/2026-11-16/root-layout/structure.txt
+PASS: Documentation link: docs/14-PROJECT-STRUCTURE.md -> 00-SPECIFICATION-OVERVIEW.md
+PASS: Documentation link: docs/14-PROJECT-STRUCTURE.md -> test-results/2026-11-16/root-layout/import.txt
+PASS: Documentation link: docs/14-PROJECT-STRUCTURE.md -> test-results/2026-11-16/root-layout/combat.txt
+PASS: Documentation link: docs/14-PROJECT-STRUCTURE.md -> test-results/2026-11-16/root-layout/throws.txt
+PASS: Documentation link: docs/14-PROJECT-STRUCTURE.md -> test-results/2026-11-16/root-layout/scenes.txt
+PASS: Documentation link: docs/14-PROJECT-STRUCTURE.md -> test-results/2026-11-16/root-layout/root-rendered.txt
+PASS: Documentation link: docs/14-PROJECT-STRUCTURE.md -> test-results/2026-11-16/root-layout/root-export.txt
+PASS: Documentation link: docs/14-PROJECT-STRUCTURE.md -> test-results/2026-11-16/root-layout/root-standalone.txt
+PASS: Documentation link: docs/14-PROJECT-STRUCTURE.md -> test-results/2026-11-16/root-layout/root-standalone-rendered.txt
+PASS: Documentation link: docs/14-PROJECT-STRUCTURE.md -> test-results/2026-11-16/root-layout/structure.txt
+PASS: Documentation link: docs/14-PROJECT-STRUCTURE.md -> ../README.md
+PASS: Documentation link: docs/14-PROJECT-STRUCTURE.md -> 10-WINDOWS-PROTOTYPE.md
+Local documentation links checked: 73
+PASS: Git ignores generated/private path: .tools/godot/Godot_v4.7.2-stable_win64.exe
+PASS: Git ignores generated/private path: .godot/global_script_class_cache.cfg
+PASS: Git ignores generated/private path: builds/windows/LankaRumble.exe
+PASS: Git ignores generated/private path: export_credentials.cfg
+PASS: Git ignores generated/private path: prototype.keystore
+PASS: Maintained source remains visible to Git: project.godot
+PASS: Maintained source remains visible to Git: scripts/core/match_simulation.gd
+PASS: Maintained source remains visible to Git: tools/test.ps1
+PASS: Maintained source remains visible to Git: resources/fighters/placeholder_a.tres
+PASS: Maintained source remains visible to Git: docs/04-TECHNICAL-ARCHITECTURE.md
+PASS: Maintained source remains visible to Git: references/chamara/reference-01.png
+PASS: Non-runtime scan marker: docs/.gdignore
+PASS: Non-runtime scan marker: examples/.gdignore
+PASS: Non-runtime scan marker: prompts/.gdignore
+PASS: Non-runtime scan marker: references/.gdignore
+PASS: Non-runtime scan marker: tools/.gdignore
+PASS: Non-runtime scan marker: .tools/.gdignore
+PASS: Non-runtime scan marker: builds/.gdignore
+PASS: Windows export excludes all non-runtime project directories
+STRUCTURE RESULT: all checks passed

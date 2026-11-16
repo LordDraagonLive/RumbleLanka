@@ -1,0 +1,80 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+PASS: Resource-backed frame data
+PASS: Malformed/missing move returns safe fallback
+PASS: P2 Num1 maps to actual Godot keypad constant
+PASS: P2 Num2 mapping
+PASS: P2 Num5 mapping
+PASS: Arrow mapping
+PASS: Right arrow mapping
+PASS: Up arrow mapping
+PASS: Down arrow mapping
+KEY CONSTANTS: 4194439 4194440 4194441 4194443
+PASS: Keyboard adapter emits canonical rising edge
+PASS: Held key has no repeated rising edge
+PASS: Resume inhibits held attack
+PASS: Release/repress restores input after pause
+PASS: Opposite directions neutralize
+PASS: Walk integrates 175 px over 60 ticks
+PASS: Stage boundary clamps
+PASS: Jump leaves ground
+PASS: Gravity lands on floor
+PASS: Crouch updates state and hurtbox
+PASS: Facing reverses after side switch
+PASS: Mirrored attack extends character-local forward
+PASS: Grounded bodies cannot pass through each other
+PASS: Landing aerial heavy clears hitbox and enforces nine recovery ticks
+PASS: Landing recovery rejects offensive input
+PASS: Landing recovery returns to neutral on schedule
+PASS: Light startup frame 1 is inactive
+PASS: Light startup frame 2 is inactive
+PASS: Light startup frame 3 is inactive
+PASS: Light startup frame 4 is inactive
+PASS: Light startup frame 5 is inactive
+PASS: Light active frame 6
+PASS: Light active frame 7
+PASS: Light active frame 8
+PASS: Recovery disables hitbox
+PASS: Active strike deals configured damage
+PASS: One attack instance cannot hit victim repeatedly
+PASS: New attack instance can hit again
+PASS: Heavy does not deal damage during 12 startup frames
+PASS: Heavy activates after startup and applies hitstop
+PASS: Hitstop freezes animation, physics and stun clocks
+PASS: Hitstun begins after hitstop
+PASS: Standing guard blocks mid without chip
+PASS: Crouch guard blocks mid
+PASS: Crouch guard blocks low
+PASS: Standing guard loses to low
+PASS: Standing guard blocks overhead
+PASS: Crouch guard loses to overhead
+PASS: Throws bypass guard
+PASS: Ground throw hits through guard and knocks down
+PASS: Throw misses airborne target
+PASS: First ten getup ticks are invulnerable
+PASS: Simultaneous contacts produce double KO
+PASS: KO removes both active hitboxes
+PASS: KO ignores offensive input
+PASS: Damage clamps HP to zero
+PASS: L+H within 3-frame window resolves to throw
+PASS: H+S falls back to heavy without super/meter
+PASS: B+attack ignores attack
+PASS: Holding attack never auto-repeats
+PASS: Offensive input during hitstun is discarded
+PASS: Stun cannot leave queued attack
+PASS: Buffered input expires after six ticks during long recovery
+PASS: 90-tick pre-round leads to 99-second active round
+PASS: Round timer freezes during hitstop
+PASS: Pause freezes health, combat and timer
+PASS: KO awards one round
+PASS: Next round restores HP and spawn positions
+PASS: First to two wins ends best-of-three match
+PASS: Timeout compares health percentage, not raw HP
+PASS: Equal timeout is draw 1 without awarding wins
+PASS: Equal timeout is draw 2 without awarding wins
+PASS: Equal timeout is draw 3 without awarding wins
+PASS: Three consecutive draws enable sudden death
+PASS: First unblocked hit wins sudden death
+PASS: Double KO awards neither player a round
+PASS: Missing audio event safely supplies silence and caption
+RESULT: 76 passed, 0 failed
